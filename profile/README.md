@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### 🙋‍♀️ A short introduction
+### 🌈 Contribution guidelines
+### 👩‍💻 Useful resources
+### 🍿 Fun facts
+### 🧙 demo address
+### 🐱 doc/PPT/video
 <!--
 
 **Here are some ideas to get you started:**
